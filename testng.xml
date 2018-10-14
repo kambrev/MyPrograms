@@ -1,0 +1,21 @@
+<suite name="my project">
+
+    <test  name="my test set 1">
+        <classes>
+            <class name = "exampletng"/>
+            <class name = "exampletngafter"/>
+
+        </classes>
+
+    </test>
+    <test  name="my test set 1">
+        <classes>
+            <class name = "exampleclass"/>
+
+        </classes>
+
+    </test>
+
+
+
+</suite>
